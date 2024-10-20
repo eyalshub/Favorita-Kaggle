@@ -1,0 +1,17 @@
+kaggle
+fitter
+pyodbc
+python-dotenv
+prophet
+catboost
+category_encoders
+shap
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+lightgbm
+xgboost
+tqdm
+jupyterlab
